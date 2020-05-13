@@ -17,16 +17,33 @@ Some isolates have additional Nanopore data.
 
 Early versions of consensus genomes were deposited in 
 [GISAID](https://www.gisaid.org/),
-but some were rejected due to "frame shifts". FASTA files
-for _all_ genomes are available in this Github repository.
+but some were rejected due to "frame shifts".
+NCBI also rejected them for the same reason.
+Investigation is ongoing to confirm if these 
+are genuine indels or sequencing artifacts. 
+
+Download a multi-FASTA file
+[VIC.ffn](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.ffn)
+of all genomes.
 
 ### Alignments
 
-Coming soon.
+Download the aligned-FASTA file
+[VIC.afa](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.afa)
 
 ### Trees
 
-Coming soon.
+Download Newick file 
+[VIC.nwk](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.nwk)
 
 ### Citation
 
+If you use any of the data in this repository or PRJNA613958 please cite:
+
+T Seemann, CR Lane, NL Sherry, S Duchene, AG da Silva, 
+L Caly, ML Sait, SA Ballard, K Horan, MB Schultz, 
+T Hoang, M Easton, S Dougall,
+TP Stinear, J Druce, M Catton, B Sutton, 
+A van Diemen, C Alpren, DA Williamson, BP Howden.
+**Tracking the COVID-19 pandemic in Australia using genomics**
+_BioRxiv_, May 2020.
