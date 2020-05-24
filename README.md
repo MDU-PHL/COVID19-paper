@@ -1,7 +1,7 @@
 # COVID19 Genomics 
 
 Data for 
-[https://www.medrxiv.org/content/10.1101/2020.05.12.20099929v1](publications)
+[publications](https://www.medrxiv.org/content/10.1101/2020.05.12.20099929v1)
 related genomic epidemiology 
 for the Victorian SARS-CoV-2 response from
 The Peter Doherty Institute for Infection and Immunity
