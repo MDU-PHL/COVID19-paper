@@ -46,4 +46,7 @@ T Hoang, M Easton, S Dougall,
 TP Stinear, J Druce, M Catton, B Sutton, 
 A van Diemen, C Alpren, DA Williamson, BP Howden.
 **Tracking the COVID-19 pandemic in Australia using genomics**
-_BioRxiv_, May 2020.
+<b>medR<sub><large>&chi;</large></sub>iv</b>, 
+16 May 2020.
+doi:[doi:10.1101/2020.05.12.20099929](https://doi.org/10.1101/2020.05.12.20099929)
+[link](https://www.medrxiv.org/content/10.1101/2020.05.12.20099929v1)
