@@ -28,15 +28,32 @@ Download a multi-FASTA file
 [VIC.ffn](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.ffn)
 of all genomes.
 
-### Alignments
+### Alignment
 
 Download the aligned-FASTA file
 [VIC.afa](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.afa)
 
-### Trees
+### Tree
 
 Download Newick file 
 [VIC.nwk](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.nwk)
+
+### Metadata
+
+Download CSV metadata file
+[VIC.csv](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.csv)
+
+Columns include:
+* `VIC_ID` - the identifier used in FASTA, AFA and NWK.
+* `NCBI_ID` - this BioSample ID will link to FASTQ and FASTA
+* `GISAID_ID` - consensus genome accession
+* `Date_coll` - date sample was collected
+* `Patient_age` - patient age in years
+* `Patient_sex` - patient gender
+* `Seq_protocol` - ARTIC V1 or V3
+* `Sequencing_technology` - Instrument sequencing was done on
+* `PCR_Ct_value` - sample Ct, higher is worse
+
 
 ### Citation
 
