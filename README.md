@@ -15,6 +15,9 @@ Raw genome sequence reads have been deposited at NCBI SRA within
 Every isolate was sequenced with Illumina paired-end 150bp reads.
 Some isolates have additional Nanopore data.
 
+The GISAID ID for each set of reads has been added to the BioSample
+description.
+
 ### Consensus genomes
 
 Early versions of consensus genomes were deposited in 
