@@ -5,14 +5,11 @@ Turner, S Dougall, S Johnson, M Sait, A Gon‡alves da Silva, SA Ballard, T
 Hoang, TP Stinear, L Caly, V Sintchenko, R Graham, J McMahon, D Smith, LEX
 Leong, EM Meumann, L Cooley, B Schwessinger, W Rawlinson, SJ van Hal, N
 Stephens, M Catton, C Looker, S Crouch, B Sutton, C Alpren, DA Williamson, T
-Seemann, BP Howden.  
-_Genomics-informed responses in the elimination of
+Seemann, BP Howden.  _Genomics-informed 
+responses in the elimination of
 COVID-19 in Victoria, Australia: an observational, genomic epidemiological
-study_,
-*Lancet Public Health*,
-9 Jul 2021.  
-`doi: 10.1016/S2468-2667(21)00133-X`
-[(link)](https://www.sciencedirect.com/science/article/pii/S246826672100133X)
+study_, **Lancet Public Health**, 9 Jul 2021.  
+[doi:10.1016/S2468-2667(21)00133-X`](https://www.sciencedirect.com/science/article/pii/S246826672100133X)
 
 # Metadata
 

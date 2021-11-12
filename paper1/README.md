@@ -28,23 +28,23 @@ Investigation is ongoing to confirm if these
 are genuine indels or sequencing artifacts. 
 
 Download a multi-FASTA file
-[VIC.ffn](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.ffn)
+[VIC.ffn](https://github.com/MDU-PHL/COVID19-paper/raw/master/paper1/VIC.ffn)
 of all genomes.
 
 ### Alignment
 
 Download the aligned-FASTA file
-[VIC.afa](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.afa)
+[VIC.afa](https://github.com/MDU-PHL/COVID19-paper/raw/master/paper1/VIC.afa)
 
 ### Tree
 
 Download Newick file 
-[VIC.nwk](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.nwk)
+[VIC.nwk](https://github.com/MDU-PHL/COVID19-paper/raw/master/paper1/VIC.nwk)
 
 ### Metadata
 
 Download CSV metadata file
-[VIC.csv](https://github.com/MDU-PHL/COVID19-paper/raw/master/VIC.csv)
+[VIC.csv](https://github.com/MDU-PHL/COVID19-paper/raw/master/paper1/VIC.csv)
 
 Columns include:
 * `VIC_ID` - the identifier used in FASTA, AFA and NWK.
